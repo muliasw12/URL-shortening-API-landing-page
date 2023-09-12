@@ -27,6 +27,7 @@ a:hover {
   color: #fff !important;
   cursor: pointer !important;
   border: 3px solid #2acfcf !important;
+  margin-bottom: 1.5rem;
 }
 
 .button.big {
